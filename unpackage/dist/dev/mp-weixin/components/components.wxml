@@ -1,0 +1,1 @@
+<view><input class="myinput" type="text" value="" placeholder="{{placeholder}}"/><button type="primary" data-event-opts="{{[['tap',[['submit',['$event']]]]]}}" bindtap="__e">提交</button></view>

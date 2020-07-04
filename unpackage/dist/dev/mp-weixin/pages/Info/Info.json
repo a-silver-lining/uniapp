@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app-Info",
+  "usingComponents": {
+    "myinput": "/components/components"
+  }
+}
